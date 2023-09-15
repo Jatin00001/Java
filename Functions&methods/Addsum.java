@@ -1,5 +1,13 @@
-public class Addsum {
-    public static void main(String[] args) {
+import java.util.Scanner;
 
+public class Addsum {
+
+    static int addSum(int a,int b) {
+
+    }
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        
     }
 }
